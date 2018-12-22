@@ -1,12 +1,11 @@
 # socketDemo
-Socketio demo
 
 
-#run backend 
+# run backend 
 npm start
 
 
 
-#frontend
+# frontend
 
 run whatever webserver you use to run the public folder
